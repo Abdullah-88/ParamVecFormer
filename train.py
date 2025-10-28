@@ -68,7 +68,7 @@ class ParamVecFormerImageClassification(ParamVecFormer):
         num_classes=10,     
         d_model = 256,
         heads = 8,
-        num_paramvecs=256,
+        num_paramvecs=32,
         num_layers=4,
        
         
